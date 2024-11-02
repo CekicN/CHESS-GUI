@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|d:\\faks\\diplomski chess-gui\\chess-gui\\chess-gui\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|solutionrelative:chess-gui\\pieces\\knight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|d:\\faks\\diplomski chess-gui\\chess-gui\\chess-gui\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|solutionrelative:chess-gui\\pieces\\bishop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|d:\\faks\\diplomski chess-gui\\chess-gui\\chess-gui\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|solutionrelative:chess-gui\\pieces\\rook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|d:\\faks\\diplomski chess-gui\\chess-gui\\chess-gui\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|solutionrelative:chess-gui\\pieces\\king.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|d:\\faks\\diplomski chess-gui\\chess-gui\\chess-gui\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C81F29E4-9DCD-4565-A745-154AA14E1B7E}|Chess-GUI\\Chess-GUI.csproj|solutionrelative:chess-gui\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 243,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Knight.cs",
+              "DocumentMoniker": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\Knight.cs",
+              "RelativeDocumentMoniker": "Chess-GUI\\Pieces\\Knight.cs",
+              "ToolTip": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\Knight.cs",
+              "RelativeToolTip": "Chess-GUI\\Pieces\\Knight.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:08:17.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bishop.cs",
+              "DocumentMoniker": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\Bishop.cs",
+              "RelativeDocumentMoniker": "Chess-GUI\\Pieces\\Bishop.cs",
+              "ToolTip": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\Bishop.cs",
+              "RelativeToolTip": "Chess-GUI\\Pieces\\Bishop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T19:02:52.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rook.cs",
+              "DocumentMoniker": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\Rook.cs",
+              "RelativeDocumentMoniker": "Chess-GUI\\Pieces\\Rook.cs",
+              "ToolTip": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\Rook.cs",
+              "RelativeToolTip": "Chess-GUI\\Pieces\\Rook.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwCIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:52:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "King.cs",
+              "DocumentMoniker": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\King.cs",
+              "RelativeDocumentMoniker": "Chess-GUI\\Pieces\\King.cs",
+              "ToolTip": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\King.cs",
+              "RelativeToolTip": "Chess-GUI\\Pieces\\King.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAEMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:37:11.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "Chess-GUI\\Pieces\\Pawn.cs",
+              "ToolTip": "D:\\Faks\\Diplomski CHESS-GUI\\Chess-GUI\\Chess-GUI\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "Chess-GUI\\Pieces\\Pawn.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAQwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:18:38.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 37,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
